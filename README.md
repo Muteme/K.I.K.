@@ -1,9 +1,6 @@
 Updates by muteme:
 Required-Buster chrome extension.
 
-
-# Reddit Bot Maker
-
 Uses Watir and Chrome web-driver to automate creating Reddit usernames and upvoting a post with a list of usernames.
 
 
